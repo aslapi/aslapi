@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Andrew LaPierre!
+# 👋 Hello, I'm Alex LaPierre!
 
 I'm a passionate web developer currently honing my skills at the University of Minnesota Coding Bootcamp. I love turning ideas into reality through code and am constantly exploring new technologies and improving my skills.
 
@@ -22,7 +22,7 @@ I'm a passionate web developer currently honing my skills at the University of M
 
 ## 📈 GitHub Stats
 
-![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslapi&show_icons=true&theme=radical)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslapi&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
