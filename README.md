@@ -28,7 +28,7 @@ I'm a passionate web developer currently honing my skills at the University of M
 
 - **Phone:** [651-334-2700](tel:6513342700)
 - **Email:** [aslapierre7@gmail.com](mailto:aslapierre7@gmail.com)
-- **LinkedIn:** [Andrew LaPierre](https://www.linkedin.com/in/alex-lapierre-7b9373183/)
+- **LinkedIn:** [Alex LaPierre](https://www.linkedin.com/in/alex-lapierre-7b9373183/)
 
 ## ⚡ Fun Facts
 
